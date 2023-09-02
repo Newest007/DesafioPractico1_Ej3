@@ -119,12 +119,11 @@ function Funcionamiento() {
                 </div>
                 <center><a class='btn btn-primary' onClick={calcularCompra}>Confirmar Compra</a></center>
                 
-                {totalPagar != null && (
-                    
+                {totalPagar != null && (  
                 <p>
                     <h5>A continuacion se muestra su factura:</h5> <br></br>
                     Nombre del destino: {destinoSeleccionado} <br></br>
-                    Cantidad de personas que viajara: {numPersonas} <br></br>
+                    Cantidad de personas que viajaran: {numPersonas} <br></br>
                     Costo del paquete por persona: {costoPaquete} <br></br>
                     Impuesto por persona: {impuesto} <br></br>
                     Impuesto aplicado: {impuestoAplicado} <br></br>

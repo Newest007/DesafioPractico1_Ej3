@@ -2,7 +2,6 @@ import React from "react";
 import Funcionamiento from './Funcionamiento';
 import Tabla_Ej3 from '../img/Tabla_Ej3.png';
 
-
 function Informacion() {
 
     return(
@@ -22,8 +21,8 @@ function Informacion() {
                         </div>
                         <div class="card-footer">
                             Programa hecho por: <br></br>
-                            Adilson Arian Montes Martinez <br></br>
-                            Anderson Melendez
+                            Adilson Arian Montes Martinez MM200149 <br></br>
+                            Anderson Melendez Alvarado MA201409
                         </div>
                     </div>
                 </div>
