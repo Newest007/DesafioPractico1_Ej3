@@ -21,7 +21,7 @@ function Funcionamiento() {
     };
 
     const calcularCompra = () => {
-        if(!destinoSeleccionado || numPersonas===0){
+        if(!destinoSeleccionado || numPersonas==0){
             alert('Debe de llenar todos los campos');
         }
         else{
