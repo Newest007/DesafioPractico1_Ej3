@@ -30,7 +30,7 @@ function Funcionamiento() {
             if(destinoSeleccionado=='Ciudad de Panamá'){
                 
                 impuestoAplicado = ('4.5%');
-                impuesto = (4.5/100) * numPersonas;
+                impuesto = (4.5/100) * (197*numPersonas);
                 costoPaquete = ('$197.00');
                 totalPagar = (197*numPersonas) + impuesto;
                 
@@ -43,7 +43,7 @@ function Funcionamiento() {
             if(destinoSeleccionado=='Cancún de México'){
                 
                 impuestoAplicado = ('6%');
-                impuesto = (6/100) * numPersonas;
+                impuesto = (6/100) * (485*numPersonas);
                 costoPaquete = ('$485.00');
                 totalPagar = (485*numPersonas) + impuesto;
                 
@@ -56,7 +56,7 @@ function Funcionamiento() {
             if(destinoSeleccionado=='Santiago de Chile'){
                 
                 impuestoAplicado = ('7%');
-                impuesto = (7/100) * numPersonas;
+                impuesto = (7/100) * (198*numPersonas);
                 costoPaquete = ('$198.00');
                 totalPagar = (198*numPersonas) + impuesto;
                 
@@ -69,7 +69,7 @@ function Funcionamiento() {
             if(destinoSeleccionado=='Machu Picchu Perú'){
                 
                 impuestoAplicado = ('7.5%');
-                impuesto = (7.5/100) * numPersonas;
+                impuesto = (7.5/100) * (754*numPersonas);
                 costoPaquete = ('$754.00');
                 totalPagar = (754*numPersonas) + impuesto;
 
@@ -82,7 +82,7 @@ function Funcionamiento() {
             if(destinoSeleccionado=='Roatán Honduras'){
                 
                 impuestoAplicado = ('4%');
-                impuesto = (4/100) * numPersonas;
+                impuesto = (4/100) * (565*numPersonas);
                 costoPaquete = ('$565.00');
                 totalPagar = (565*numPersonas) + impuesto;
 
