@@ -37,9 +37,9 @@ function Funcionamiento() {
                 
                 impuestoAplicado = ('4.5%');
                 impuesto = (4.5/100) * (197*numPersonas);
-                impuesto = impuesto.toFixed(2);
                 costoPaquete = ('$197.00');
                 totalPagar = (197*numPersonas) + impuesto;
+                impuesto = impuesto.toFixed(2);
                 
                 setImpuestoAplicado(impuestoAplicado);
                 setImpuesto(impuesto);
@@ -51,9 +51,9 @@ function Funcionamiento() {
                 
                 impuestoAplicado = ('6%');
                 impuesto = (6/100) * (485*numPersonas);
-                impuesto = impuesto.toFixed(2);
                 costoPaquete = ('$485.00');
                 totalPagar = (485*numPersonas) + impuesto;
+                impuesto = impuesto.toFixed(2);
                 
                 setImpuestoAplicado(impuestoAplicado);
                 setImpuesto(impuesto);
@@ -65,9 +65,9 @@ function Funcionamiento() {
                 
                 impuestoAplicado = ('7%');
                 impuesto = (7/100) * (198*numPersonas);
-                impuesto = impuesto.toFixed(2);
                 costoPaquete = ('$198.00');
                 totalPagar = (198*numPersonas) + impuesto;
+                impuesto = impuesto.toFixed(2);
                 
                 setImpuestoAplicado(impuestoAplicado);
                 setImpuesto(impuesto);
@@ -79,9 +79,9 @@ function Funcionamiento() {
                 
                 impuestoAplicado = ('7.5%');
                 impuesto = (7.5/100) * (754*numPersonas);
-                impuesto = impuesto.toFixed(2);
                 costoPaquete = ('$754.00');
                 totalPagar = (754*numPersonas) + impuesto;
+                impuesto = impuesto.toFixed(2);
 
                 setImpuestoAplicado(impuestoAplicado);
                 setImpuesto(impuesto);
@@ -93,9 +93,9 @@ function Funcionamiento() {
                 
                 impuestoAplicado = ('4%');
                 impuesto = (4/100) * (565*numPersonas);
-                impuesto = impuesto.toFixed(2);
                 costoPaquete = ('$565.00');
                 totalPagar = (565*numPersonas) + impuesto;
+                impuesto = impuesto.toFixed(2);
 
                 setImpuestoAplicado(impuestoAplicado);
                 setImpuesto(impuesto);
